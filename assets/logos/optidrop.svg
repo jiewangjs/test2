@@ -1,0 +1,9 @@
+<svg width="320" height="120" viewBox="0 0 320 120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="320" height="120" rx="18" fill="#FFF7ED"/>
+  <path d="M28 72 C46 72, 50 40, 72 40 C82 40, 88 46, 88 56" stroke="#2563EB" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <path d="M78 46 L98 56 L78 66" fill="none" stroke="#F97316" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="28" cy="72" r="6" fill="#2563EB"/>
+  <circle cx="72" cy="40" r="6" fill="#F97316"/>
+  <text x="115" y="55" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#1D4ED8">OptiDrop</text>
+  <text x="115" y="80" font-family="Arial, sans-serif" font-size="13" fill="#6B7280">fast optimized dispatch</text>
+</svg>

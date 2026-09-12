@@ -1,0 +1,8 @@
+<svg width="320" height="120" viewBox="0 0 320 120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="320" height="120" rx="18" fill="#F0FDFA"/>
+  <circle cx="60" cy="58" r="30" fill="none" stroke="#0F766E" stroke-width="8"/>
+  <path d="M76 42 C60 30, 36 44, 42 62 C46 75, 64 79, 77 66" stroke="#14B8A6" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <circle cx="77" cy="66" r="6" fill="#0F766E"/>
+  <text x="115" y="55" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#115E59">SmartMiles</text>
+  <text x="115" y="80" font-family="Arial, sans-serif" font-size="13" fill="#6B7280">efficient route intelligence</text>
+</svg>
