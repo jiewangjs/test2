@@ -1,4 +1,6 @@
-<svg width="320" height="120" viewBox="0 0 320 120" xmlns="http://www.w3.org/2000/svg">
+<svg width="320" height="120" viewBox="0 0 320 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="smartmiles-title smartmiles-desc">
+  <title id="smartmiles-title">SmartMiles logo draft</title>
+  <desc id="smartmiles-desc">A teal circular route icon with a destination dot next to the SmartMiles wordmark.</desc>
   <rect width="320" height="120" rx="18" fill="#F0FDFA"/>
   <circle cx="60" cy="58" r="30" fill="none" stroke="#0F766E" stroke-width="8"/>
   <path d="M76 42 C60 30, 36 44, 42 62 C46 75, 64 79, 77 66" stroke="#14B8A6" stroke-width="8" fill="none" stroke-linecap="round"/>

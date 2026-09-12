@@ -1,4 +1,6 @@
-<svg width="320" height="120" viewBox="0 0 320 120" xmlns="http://www.w3.org/2000/svg">
+<svg width="320" height="120" viewBox="0 0 320 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="routemind-title routemind-desc">
+  <title id="routemind-title">RouteMind logo draft</title>
+  <desc id="routemind-desc">A navy map pin containing a green route network next to the RouteMind wordmark.</desc>
   <rect width="320" height="120" rx="18" fill="#F8FAFC"/>
   <path d="M60 20C41 20 26 35 26 54c0 25 34 46 34 46s34-21 34-46C94 35 79 20 60 20z" fill="#123B6D"/>
   <circle cx="60" cy="54" r="20" fill="#EAF2FF"/>
